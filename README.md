@@ -9,8 +9,8 @@ I'm just a random girl who loves what she does
 -->
 
 ### 
-[
+
   <img align= "left" alt="HTML" width="25px" src="
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           "
-]
+
