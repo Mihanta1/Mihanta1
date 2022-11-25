@@ -10,7 +10,7 @@ I'm just a random girl who loves what she does
 
 ### 
 
-          ### [ 
-           <img align="left" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding-right:10px"/>
-           ]
+![
+            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding-right:10px"/>]
+          
           
