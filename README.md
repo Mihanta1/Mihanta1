@@ -8,7 +8,4 @@ I'm just a random girl who loves what she does
 - ⚡ Fun fact: I think I'm fun the way I am
 -->
 
-### 
-      [  <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding-right:10px"/>
-      ]
           
