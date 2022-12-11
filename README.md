@@ -48,6 +48,14 @@
   </div>
           <div>
           <div>
+          <h5>Languages:</h5>
+          </div>
+          <div>
+               <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  </div>
+          <div>
+          <div>
           <h5>Workspace Setup:</h5>
           </div>
           <div>
