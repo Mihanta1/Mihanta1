@@ -61,12 +61,7 @@
   </div>
                      </div>
           <div>
-          <div>
-          <h5>Cross Platform:</h5>
-          </div>
-          <div>
-               <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  </div>
+       
 </div>
                     
 ### 🖤 Stats: 
