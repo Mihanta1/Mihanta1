@@ -11,6 +11,9 @@
   </a>
 </div>
 
+### 🖤 Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihanta1&theme=dark&background=000000)](https://git.io/streak-stats)
+                   
 ### Links:
 <div id="badges">
   <a href="https://www.linkedin.com/in/narovana-randriatiana-57532a23a/">
@@ -55,9 +58,7 @@
   </div>
          
                     
-### 🖤 Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihanta1&theme=dark&background=000000)](https://git.io/streak-stats)
-                   
+
                     
 
                    
