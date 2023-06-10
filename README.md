@@ -6,7 +6,9 @@
 
 -->
 <div id="header" align="center">
-          <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+           <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
 </div>
 
 ### Links:
@@ -51,18 +53,7 @@
                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
                  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   </div>
-          <div>
-          <div>
-          <h5>Workspace Setup:</h5>
-          </div>
-          <div>
-               <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"  title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-  </div>
-                     </div>
-          <div>
-       
-</div>
+         
                     
 ### 🖤 Stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihanta1&theme=dark&background=000000)](https://git.io/streak-stats)
