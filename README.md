@@ -1,3 +1,6 @@
+<div align="center">
+           
+
 ### Hi, I'm Mihanta1! 👋
 
 
@@ -39,7 +42,7 @@
                 
   </div>
          
-                    
+ </div>                   
 
                     
 
