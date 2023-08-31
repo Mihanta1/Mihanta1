@@ -15,9 +15,7 @@
   </a>
 </div>
 
-### 🖤 Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihanta1&theme=dark&background=000000)](https://git.io/streak-stats)
-                   
+               
 ### Links:
 <div id="badges">
   <a href="https://www.linkedin.com/in/narovana-randriatiana-57532a23a/">
@@ -41,7 +39,10 @@
                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
                 
   </div>
-         
+  
+### 🖤 Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihanta1&theme=dark&background=000000)](https://git.io/streak-stats)
+     
  </div>                   
 
                     
