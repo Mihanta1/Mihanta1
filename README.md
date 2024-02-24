@@ -34,7 +34,7 @@
                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express" width="40" height="40"/>&nbsp;
-               <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+               <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
                 
   </div>
   
